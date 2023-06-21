@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/f5a0bfae-56ba-4b82-a4ae-a4c94b49e822/mlops-zoomcamp-forked/04-deployment/web-service-mlflow/mlruns/0/9dc2ef7a0cc54622b49062631e36389e/artifacts
+end_time: 1687336081732
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9dc2ef7a0cc54622b49062631e36389e
+run_name: persistent-asp-615
+run_uuid: 9dc2ef7a0cc54622b49062631e36389e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687336081726
+status: 4
+tags: []
+user_id: manthan

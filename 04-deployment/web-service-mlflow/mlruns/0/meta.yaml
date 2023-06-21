@@ -1,0 +1,6 @@
+artifact_location: file:///mnt/f5a0bfae-56ba-4b82-a4ae-a4c94b49e822/mlops-zoomcamp-forked/04-deployment/web-service-mlflow/mlruns/0
+creation_time: 1687336081544
+experiment_id: '0'
+last_update_time: 1687336081544
+lifecycle_stage: active
+name: Default
