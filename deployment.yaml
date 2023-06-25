@@ -12,3 +12,10 @@ deployments:
 
   work_pool:
     name: zoompool
+
+- name: backfill
+
+  entrypoint: 04-deployment/batch/score_backfill.py:ride_duration_prediction_backfill
+
+  work_pool:
+    name: zoompool
