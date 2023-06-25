@@ -16,7 +16,7 @@ def ride_duration_prediction_backfill():
     while d <= end_date:
         score.ride_duration_prediction(
             taxi_type='green',
-            run_id='e1efc53e9bd149078b0c12aeaa6365df',
+            run_id='125e1f20f7a544738d959329a37c9ecb',
             run_date=d
         )
 
