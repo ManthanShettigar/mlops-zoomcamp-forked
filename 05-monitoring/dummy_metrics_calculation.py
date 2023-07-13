@@ -52,6 +52,7 @@ def main():
 			new_send = datetime.datetime.now()
 			seconds_elapsed = (new_send - last_send).total_seconds()
 			if seconds_elapsed < SEND_TIMEOUT:
+				
 				time.sleep(SEND_TIMEOUT - seconds_elapsed)
 			while last_send < new_send:
 				last_send = last_send + datetime.timedelta(seconds=10)

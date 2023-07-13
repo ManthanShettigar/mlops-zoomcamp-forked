@@ -1,5 +1,6 @@
 {
   "main-flow": "03-orchestration/3.4/orchestrate.py:main_flow",
   "main-flow-s3": "03-orchestration/3.5/orchestrate_s3.py:main_flow_s3",
-  "ride-duration-prediction": "04-deployment/batch/score.py:ride_duration_prediction"
+  "ride-duration-prediction": "04-deployment/batch/score.py:ride_duration_prediction",
+  "ride-duration-prediction-backfill": "04-deployment/batch/score_backfill.py:ride_duration_prediction_backfill"
 }
